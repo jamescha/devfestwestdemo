@@ -7,9 +7,5 @@ It uses Dart's converted version of Box2D Physics.
 
 All rights to the Gangnam Sytle idea, song, theme, everything is not owned by me but Psy and all who are involved with it. Thank you.
 
-v0.001
-Original from Devfest West Hackathon
-
-v0.002
-Turned off scrolling of the browser and added Gangnam Style Instrumental music.
-Put it on devfestwestdemo.appspot.com.
+This is the project for launching to Appspot
+If you like the Dart Project itself please visit: https://github.com/jamescha/Dart-Game.git
