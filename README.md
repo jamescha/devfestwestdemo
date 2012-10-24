@@ -1,4 +1,4 @@
-Devfest West Dart-Game
+Devfest West 2012 Dart-Game
 GDG Gangnam style Game
 
 This is the my first attempt to use Dart to make a game. I started this at the Google DevFest West Hackathon event and won the event with it.
@@ -8,6 +8,8 @@ It uses Dart's converted version of Box2D Physics.
 All rights to the Gangnam Sytle idea, song, theme, everything is not owned by me but Psy and all who are involved with it. Thank you.
 
 v0.001
-Original from Devfest West
+Original from Devfest West Hackathon
+
 v0.002
 Turned off scrolling of the browser and added Gangnam Style Instrumental music.
+Put it on devfestwestdemo.appspot.com.
